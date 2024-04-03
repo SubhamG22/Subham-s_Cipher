@@ -1,4 +1,4 @@
-//subham's ciphur
+//subham's cipher
 #include<stdio.h>
 #include<string.h>
 int main(){
